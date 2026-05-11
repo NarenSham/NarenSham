@@ -7,6 +7,6 @@
 
 ## 📫 Connect with me
 - [Portfolio](https://narensham.github.io/)
-- LinkedIn](https://www.linkedin.com/in/narensham/)  
+- LinkedIn] (https://www.linkedin.com/in/narensham/)  
 
 ---
