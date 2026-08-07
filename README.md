@@ -4,6 +4,6 @@ I build production-style data and AI platforms for commercial and supply chain p
 
 🔭 Currently building: shelf compliance / computer vision solutions
 
-📫 Connect: [LinkedIn link]
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/narensham/)
 
-Pinned below is my current flagship work — older exploratory repos are archived.
+Pinned below is my current flagship work. Older exploratory repos are archived.
